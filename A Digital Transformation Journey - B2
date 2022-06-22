@@ -1,0 +1,66 @@
+## A Digital Transformation Journey – Blog 2
+<br>
+ 
+### Title: The Coach
+
+### Summary: Coaches need to be technical and have real practical experience because they are working off ‘real’ product backlogs.
+<br>
+ 
+
+### Origins of the transformation dojo
+
+Let’s start by getting something important out on the table. In this blog series, we discuss certain principles of a transformation philosophy that’s labeled with a curious name: Dojos.  It would be easy to assume DOJO was some acronym or slick market-ese for an easy-money, gone-tomorrow technique.
+
+And that would be wrong at such a level as to hide one of the most important concepts of this method.
+
+The dojo concept does, as you already suppose, have origins in Buddhism. Its name is a conjunction of two even smaller syllable words: the Chinese Tao (or Dao), meaning “way” or “path”, and jo, signifying “place.” Translated literally as “place of the way," dojos referred initially to the spaces adjunct to temples where formal training was conducted in the Japanese arts that bear the –dō suffix.  Students that entered the dojo came willingly into the tutelage of its resident shifu or master.
+
+This relationship of way, place and “coach” forms the basis of the transformation dojo that we’ve been exploring.
+
+ 
+
+### The dojo coach
+
+Just as in martial arts, the transformation Dojo is led by one or more coaches who understand the big picture and assist teams by “showing the way.” Our Dojo coaches are joined by additional subject matter experts (SMEs) who provide specialized assistance in a conditional way that depends on the needs of the team. For example, user-experience (UX) designers and specialists might be called in to a Dojo to help a team that is designing a new, customer-facing front end to learn more about user design.
+
+It’s this practical, embedded, hands-on approach that we’re looking to provide. This togetherness that connects coaches with their students — the product teams — breaks down walls in communications and leads to high performing teams.
+
+As expected, we see this manifesting in product teams who make specific coach requests with continuous coaching engagements. The needs that they present are highly unique, and to address them, we provide each with a coaching cohort — Agile, Technical, SME — who leverages a wide and diverse set of available topics and modules.
+
+You’ll hear me say this more than once: we strive to meet teams where they are. This means that we work at tailoring the topics and models based on the skills and experience that a team has. No two teams are really the same. Often, there’s one coach who is more focused on product and Agile practices and another who’s more focused on the technology practices, such as CI/CD and cloud-native development.
+
+Agile coaches and Technology coaches differ in the way that they fulfill their roles in workshop settings and individual pairing sessions.
+
+Our Agile coaches tend to experience fewer pairing demands and conduct workshops that are more brief; this results in their being assigned more broadly across teams. Conversely, our technical coaches who do workshops in the morning several times each week will set up pairing time in the afternoons to help solidify the concepts that they introduced in the workshops. In these pairing sessions, real product stories become the basis on which real product features are delivered. The goal is always to keep from completely trashing the product team’s velocity while they are learning something new — but we’ll get into that in a later post.
+
+Back to Dojo coaches. We do our best to staff Dojo coaches who have a wide set of real-life skills and experience in one or more of three areas: Application Development, DevOps, and PO/Agile. Even if a coach doesn’t have the competency for all sub-areas to start with, we encourage them to broaden their skills through pairing and cross-skilling among peer coaches. We believe that having real life experience helps the coaches that we find to relate better with our product team developers. It empowers them when pairing on product features and stories. It compels them to be hands-on and to give the right technical direction to get the product team moving in the right direction.
+
+Although we’re not there yet, we look for product teams to leverage the Dojo experience more in their move toward new platforms, tools, and technology stacks. In this scenario, they will need coaches who can explain how to transition existing technology to new architectures. Another objective of ours is to broaden the skills of our Dojos to include the onboarding of new developers and engineers to help them be productive and product-focused from the moment that they hit the product team.
+
+ 
+
+## The character of the coach
+
+Let’s talk about some of the skills and competencies that we look for in our coaches.
+
+### The Agile Coach
+
+We look for an Agile coach to be skilled in multiple Agile practices and frameworks, including scrum and Kanban. Rather than to be dogmatic about an Agile framework, we prefer that Agile coaches focus on the mindsets and practices that help teams to define a process that works best for their needs. Following a set of processes or ceremonies is not the target; our goal is a mindset change. 
+
+On the product side, we need Agile coaches to be skilled in various product-discovery practices and design-thinking techniques. Coaches must understand how to validate ideas with customers to determine value.  Having experience in building product originations and teams is important because the coaches will be guiding these teams on how to negotiate, prioritize, be stakeholders, and influence the direction of the products being built.
+
+### The Technology Coach
+
+To facilitate an extensive relationships to teams, we look for technology coaches to have a broad set of technology skills that include front-end development, back-end development, technology integration, DevOps, DevSecOps, and infrastructure and platforms. Beyond these experiences, we’ve outlined a set of competencies around CD/CD Engineering, Application Engineering, Agile ways of working, Business Acumen, Professional, and Site Reliability Engineering. Each of these competencies is provided a set of observable behaviors that are mapped to what a Novice, Advanced Beginner, Competent, Proficient and Expert would look like.
+
+The implementation I’ve described observes the Dreyfus model of skill acquisition. There is a lot more to unpack around the Dreyfus model and observable behaviors, but we’ll save that for a future blog.  What’s important here is that this rubric can be used in conversation with the coaches to help with their personal development and growth.
+
+### The Subject Matter Expert (SME)
+
+While SMEs aren’t a constant presence in the Dojo, it is important for them always to be accessible as reserve resources. Our coaches pull these qualified individuals in when there are deep issues with the products team’s tool usage, or they are grappling with something that is beyond the coaching team’s knowledge for that technology. It turns out that there are benefits for these SMEs to participate directly in the Dojo as well, as it provides them with customer exposure that they might not otherwise have, which helps them to build more customer empathy and provide better solutions.
+
+ 
+
+### The Coach Matters
+
+As you could imagine coach selection is critical for the success of a dojo.  They need to have excellent communication skills, technical depth with some real-life experiences in order to break down walls and build trust to ease the establishment of new skills and techniques with the product team.  In our next blog we’ll talk about the dojo lifecycle and some of the process we use to keep things in order.
